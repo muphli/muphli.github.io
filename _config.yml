@@ -2,7 +2,7 @@
 title: Dark Poole
 url: https://muphli.github.io
 paginate: 1
-baseurl: ""
+baseurl: "/"
 permalink: pretty
 
 # Gems
