@@ -1,8 +1,8 @@
 # Setup
 title: Dark Poole
-url: https://getpoole.com
+url: https://muphli.github.io
 paginate: 1
-baseurl: "https://muphli.github.io"
+baseurl: "muphli.github.io"
 permalink: pretty
 
 # Gems
