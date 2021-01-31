@@ -12,11 +12,11 @@ Software-Encoder sind Programme die in Tools wie OBS oder XSplit eingebettet sin
 
 Bei Hardware-Encodern handelt es sich um spezielle Schaltkreise die sich z.B. auf Mainboards, Grafikkarten oder Capture Cards wiederfinden. Inzwischen werden entsprechende Komponenten sowohl in Intel-, als auch in AMD- und NVIDIA-Grafikchips verbaut.
 
-Ok, und was bringt mir das jetzt?
+## Ok, und was bringt mir das jetzt?
 
 Hardware-Encoder, v.a. jene in Grafikchips ("GPU-Encoder"), sind deshalb so attraktiv weil sie die CPU entlasten. Dadurch sind mehr Ressourcen für andere Anwendungen übrig die während des Streamens so genutzt werden.
 
-Nachteil
+## Nachteil
 
 Leider liefern GPU-Encoder bei gleicher Bitrate (d.h. bei gleicher Datenmenge) im Schnitt eine etwas schlechtere Bildqualität als Software-Encoder. Wie gut die Qualität tatsächlich ist kann man sich in [entsprechenden Videos](https://www.youtube.com/watch?v=Z6uaPD_5r4w) angucken.
 
