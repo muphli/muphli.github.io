@@ -4,6 +4,8 @@ title: Firewatch
 tags: videospiele
 ---
 
+![Firewatch Bild(/assets/2016-02-18-Firewatch.jpeg)
+
 Der folgende Text enthält **Spoiler**. Ihr wurdet hiermit gewarnt.
 
 Vergangenen Samstag konnte man mich auf Twitch dabei beobachten wie ich Firewatch spielte. Mit großer Vorfreude startete ich das Spiel und die ersten ein, zwei Stunden war ich auch noch ziemlich angetan. Als 5 Stunden später schließlich der Abspann zu sehen war hielt sich meine Begeisterung dann aber doch in Grenzen. Ich verstand nicht so recht was ich da gerade gesehen hatte.
