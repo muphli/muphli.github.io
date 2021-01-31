@@ -4,7 +4,7 @@ title: Firewatch
 tags: videospiele
 ---
 
-![Firewatch Bild(/assets/2016-02-18-Firewatch.jpeg)
+![Firewatch Bild](/assets/2016-02-18-Firewatch.jpeg)
 
 Der folgende Text enthält **Spoiler**. Ihr wurdet hiermit gewarnt.
 
