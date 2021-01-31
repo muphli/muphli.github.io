@@ -1,29 +1,10 @@
 ---
 layout: page
-title: About
+title: "Über mich"
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+![Me](/assets/me.png)
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hi, mein Name ist Chris und das hier ist mein privater Blog. Ich bin 32 und arbeite im technischen Support für einen Hersteller von Hardware und Gaming-Peripherie. Ich interessiere mich für Technik seit ich denken kann. Vor einigen Jahren fing ich mit Live-Streams auf Twitch an. Daher blogge ich hier vor allem zu Technik und Videospielen. Hin und wieder mischen sich aber womöglich auch andere Themen darunter. Wir werden sehen.
 
-There are currently two themes built on Poole:
-
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Ich freue mich immer über Feedback zu den Artikeln die in Zukunft hoffentlich etwas zahlreicher erscheinen. Falls du mich kontaktieren möchtest, bietet [Twitter](https://www.twitter.com/muphli) sich hierzu ganz besonders gut an. Falls du während eines *Live-Streams* vorbeischauen (und in den Chat schreiben möchtest), bist du natürlich auch herzlich willkommen: [twitch.tv/muphli](https://www.twitch.tv/muphli). Außerdem findest du mich noch bei [Instagram](https://www.instagram.com/muphli).
