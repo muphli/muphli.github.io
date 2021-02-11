@@ -8,6 +8,8 @@ Befasst man sich mit dem Thema Livestreaming wird man zwangsläufig auch mit sog
 
 Die Wahl des Encoder beeinflusst maßgeblich die Bildqualität. Prinzipiell stehen zwei Arten von Encodern zur Verfügung: Software- und Hardware-Encoder.
 
+<!--more-->
+
 Software-Encoder sind Programme die in Tools wie OBS oder XSplit eingebettet sind. Daher ist es Aufgabe der CPU die Encoder-Software während des Streamens auszuführen und alle Berechnungen durchzuführen. Da dies sehr aufwendig ist kann die Nutzung eines Software-Encoders dazu führen, dass die CPU zu stark ausgelastet wird und nur noch wenige Ressourcen zur Ausführung anderer Programme (z.B. Spiele) übrig hat.
 
 Bei Hardware-Encodern handelt es sich um spezielle Schaltkreise die sich z.B. auf Mainboards, Grafikkarten oder Capture Cards wiederfinden. Inzwischen werden entsprechende Komponenten sowohl in Intel-, als auch in AMD- und NVIDIA-Grafikchips verbaut.
