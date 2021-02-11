@@ -1,7 +1,7 @@
 # Setup
 title: muph.li
 url: https://muphli.github.io
-paginate: 5
+paginate: 3
 baseurl: "/"
 permalink: pretty
 
