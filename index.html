@@ -14,11 +14,7 @@ title: Home
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
     
-    {% if post.content contains '<!--more-->' %}
-    {{ post.content | split:'<!--more-->' | first }}
-{% else %}
-    {{ post.content }}
-{% endif %}
+    {{ post.excerpt }}
     
   </article>
   {% endfor %}
