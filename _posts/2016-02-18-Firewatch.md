@@ -10,6 +10,8 @@ Der folgende Text enthält **Spoiler**. Ihr wurdet hiermit gewarnt.
 
 Vergangenen Samstag konnte man mich auf Twitch dabei beobachten wie ich Firewatch spielte. Mit großer Vorfreude startete ich das Spiel und die ersten ein, zwei Stunden war ich auch noch ziemlich angetan. Als 5 Stunden später schließlich der Abspann zu sehen war hielt sich meine Begeisterung dann aber doch in Grenzen. Ich verstand nicht so recht was ich da gerade gesehen hatte.
 
+<!--more-->
+
 Weshalb hatte Ned Henry und Delilah bespitzelt? War der Tod seines Sohnes wirklich ein Unfall? Und weshalb hatte Ned Henry zur Höhle geführt? Alles ergab nicht so wirklich Sinn für mich und ich fing an an mir selbst zu zweifeln weil ich dachte irgendetwas Wesentliches verpasst zu haben.
 
 Die nächsten Tage dachte ich darüber nach und irgendwann fiel dann der Groschen: Ja, es war ein Unfall. Ned bespitzelte Henry und Delilah um herauszufinden ob er sie derart manipulieren kann damit sie die Höhle finden. Ned wollte, dass Brians Leiche gefunden wird damit er endlich mit dem Tod seines Sohnes abschließen kann und diesem die letzte Ehre erwiesen wird. Obwohl es ein Unfall war fühlte er sich verantwortlich für dessen Tod. Er wollte der Welt mitteilen was geschehen war, gewissermaßen Beichte ablegen.
