@@ -4,8 +4,6 @@ title: "Ein paar Gedanken zur Xbox Series X"
 tags: technik
 ---
 
-<!--more-->
-
 **Update vom 14.03.2021:**
 
 Microsoft hat vor ein paar Wochen damit begonnen, ein Feature namens FPS Boost auszurollen. Damit erhalten auch ältere Spiele ein Upgrade auf 60FPS. Unterstützt wird dieses Feature bisher u.a. von Watch_Dogs und Far Cry 4. Bald sollen aber auch Bethesda-Titel wie Dishonored, Skyrim oder auch Fallout 4 folgen. Genau das hat mir ursprünglich bei der Series X gefehlt und ich hoffe, dass in Zukunft auch noch viele andere Spiele von FPS Boost protifieren werden.
