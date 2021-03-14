@@ -10,6 +10,8 @@ Umso mehr freute es mich, als ich vor kurzem über ein Kickstarter Projekt stolp
 
 Wir konnnten vor ein paar Tagen die erste Box spielen. Meine ersten Eindrücke werde ich im Folgenden schildern.
 
+<!--more-->
+
 Das Spiel beginnt (wenn man denn möchte) schon ein paar Tage vor Erhalt der ersten Box. In einer E-Mail des fiktiven Beratungsunternehmens [Dolosus Global](https://dolosusglobal.com) wird man gebeten, dem Verschwinden von Claire Makova nachzugehen. Außerdem wird man darüber informiert, dass in einem passwortgeschützten Bereich der Website weitere Informationen zur Durchsicht warten würden. Das Passwort ist recht schnell gefunden (etwas zu schnell für meinen Geschmack) und nun heißt es warten, bis die Box eintrudelt.
 
 [!Inhalt der ersten Box](/assets/2020-01-08-The-Detective-Society.jpeg)

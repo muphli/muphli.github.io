@@ -8,6 +8,8 @@ Als wir vor gut einem Jahr zusammenzogen, entschieden wir uns dafür, unsere Woh
 
 Nun, ich sag es mal so: Wir sind inzwischen nicht mehr die größten Fans des Systems.
 
+<!--more-->
+
 Das liegt zum einen daran, dass HomeKit/Siri und das Hue öfter mal einfach nicht wollen. Auf die Bitte, eine Lampe einzuschalten, passiert nichts. Möchte man Lampen direkt über die Home-App schalten, dauert es erstmal ein paar Sekunden, bis der Status einer jeden Lampe aktualisiert wurde. Dasselbe gilt für die Apple Watch, allerdings dauert es hier noch länger.
 Zum anderen hat sich die Art und Weise geändert, wie wir mit unseren Geräten umgehen. Ich lade mein iPhone nicht mehr über Nacht, weil das a) den Akku schädigt und b) das Optimierte Laden in meinem Fall nicht funktioniert, da ich nicht immer zur gleichen Zeit ins Bett gehe. Daher schalten wir unsere iPhones über Nacht aus. Dadurch steht am nächsten Morgen kein Gerät zur Verfügung, um per Siri das Licht im Schlafzimmer einzuschalten.
 Und auch der Sensor im Flur funktioniert mehr schlecht als recht. Entweder das Licht geht zu früh wieder aus oder es bleibt zu lange an. Außerdem kann ein Sensor unseren Flur nicht abdecken, weil er schlichtweg zu lang ist. Dazu kommt die Hue-Bridge, die mir – allein schon durch Ihre Notwendigkeit – ein Dorn im Auge ist.
