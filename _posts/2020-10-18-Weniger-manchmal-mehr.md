@@ -16,7 +16,7 @@ Und auch der Sensor im Flur funktioniert mehr schlecht als recht. Entweder das L
 
 Ach ja, weil ich vorhin die unterschiedlichen Farben ansprach: Ratet mal, wie oft ich die Lampen in den letzten 2 Jahren auf andere Farben als warmes Weiß eingestellt habe… Ja, genau, vielleicht ein einziges Mal.
 
-Das mögen recht spezielle „Probleme" sein und das eine oder andere davon könnte man sicherlich auch beheben (z.B. durch einen zusätzlichen Sensor im Flur oder Philips Hue-Lichtschalter) *ABER ich habe darauf einfach keine Lust. Technik sollte das Leben erleichtern, nicht erschweren. Ein verkackter Lichtschalter und TRÅDFRI-Lampen mit einer Fernbedienung funktionieren in unserem Fall besser, als jedes Hue-System*.
+Das mögen recht spezielle „Probleme" sein und das eine oder andere davon könnte man sicherlich auch beheben (z.B. durch einen zusätzlichen Sensor im Flur oder Philips Hue-Lichtschalter) **ABER ich habe darauf einfach keine Lust. Technik sollte das Leben erleichtern, nicht erschweren. Ein verkackter Lichtschalter und TRÅDFRI-Lampen mit einer Fernbedienung funktionieren in unserem Fall besser, als jedes Hue-System**.
 
 Und während ich das schreibe, frage ich mich ernsthaft, ob ich wirklich eine Uhr brauche, die mir sagt, wann ich ins Bett zu gehen habe, wie viel ich mich bewegt habe und die mich über eingegangene Nachrichten informiert. Ich meine, weiß ich das nicht auch so? Und für den Rest habe ich ein Handy.
 

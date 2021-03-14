@@ -4,16 +4,18 @@ title: "Ein paar Gedanken zur Xbox Series X"
 tags: technik
 ---
 
-Seit kurzem stolzer Besitzer einer Xbox Series X. In den letzten zwei Wochen konnte ich diese bereits ausführlich testnen. Dabei sind mir ein paar Sachen sehr positiv, manche aber auch etwas negativ aufgefallen.
-
 <!--more-->
 
-*Update vom 14.03.2021:*
+**Update vom 14.03.2021:**
 
 Microsoft hat vor ein paar Wochen damit begonnen, ein Feature namens FPS Boost auszurollen. Damit erhalten auch ältere Spiele ein Upgrade auf 60FPS. Unterstützt wird dieses Feature bisher u.a. von Watch_Dogs und Far Cry 4. Bald sollen aber auch Bethesda-Titel wie Dishonored, Skyrim oder auch Fallout 4 folgen. Genau das hat mir ursprünglich bei der Series X gefehlt und ich hoffe, dass in Zukunft auch noch viele andere Spiele von FPS Boost protifieren werden.
 
+<!--more-->
 
-*Ursprünglicher Post:*
+
+**Ursprünglicher Post:**
+
+Seit kurzem stolzer Besitzer einer Xbox Series X. In den letzten zwei Wochen konnte ich diese bereits ausführlich testnen. Dabei sind mir ein paar Sachen sehr positiv, manche aber auch etwas negativ aufgefallen.
 
 * Ich mag das Design. Die Konsole ist unaufdringlich, integriert sich gut ins Wohnzimmer und braucht wenig Platz (zumindest, wenn man die Möglichkeit hat, sie vertikal aufzustellen).
 * An der Xbox-UI hat mich schon immer gestört, dass sich diese im Vergleich zu PS4/PS5 recht träge anfühlt. Springt man aus einem grafisch anspruchsvollen Spiel zurück auf das Dashboard kann es schon ein paar Augenblicke dauern, bis die Konsole reagiert/die UI aufgebaut ist. Bei der Series X ist das deutlich angenehmer. Der Wechsel ist quasi instant.
