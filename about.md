@@ -3,7 +3,7 @@ layout: page
 title: "Über mich"
 ---
 
-![Me](/assets/me.png)
+<img src="/assets/me.png" width="200">
 
 Hi, mein Name ist Chris und das hier ist mein privater Blog. Ich bin 32 und arbeite im technischen Support für einen Hersteller von Hardware und Gaming-Peripherie. Ich interessiere mich für Technik seit ich denken kann. Vor einigen Jahren fing ich mit Live-Streams auf Twitch an. Daher blogge ich hier vor allem zu Technik und Videospielen. Hin und wieder mischen sich aber womöglich auch andere Themen darunter. Wir werden sehen.
 
