@@ -14,7 +14,7 @@ Wir konnnten vor ein paar Tagen die erste Box spielen. Meine ersten Eindrücke w
 
 Das Spiel beginnt (wenn man denn möchte) schon ein paar Tage vor Erhalt der ersten Box. In einer E-Mail des fiktiven Beratungsunternehmens [Dolosus Global](https://dolosusglobal.com) wird man gebeten, dem Verschwinden von Claire Makova nachzugehen. Außerdem wird man darüber informiert, dass in einem passwortgeschützten Bereich der Website weitere Informationen zur Durchsicht warten würden. Das Passwort ist recht schnell gefunden (etwas zu schnell für meinen Geschmack) und nun heißt es warten, bis die Box eintrudelt.
 
-[!Inhalt der ersten Box](/assets/2020-01-08-The-Detective-Society.jpeg)
+![Inhalt der ersten Box](/assets/2020-01-08-The-Detective-Society.jpeg)
 
 Sobald man diese in Händen hält, müssen erst noch drei kleinere „Rätsel" gelöst werden, um sich Dolosus Global gegenüber zu beweisen. Dann kann es richtig losgehen. Fotos, eine Anrufliste, eine Karte, mehrere Briefe, Websites, E-Mail Adressen und Telefonnummern helfen dabei, Claire aufzuspüren. Die Immersion wird v.a. dadurch erzeugt, dass jede Telefonnummer (leider mit UK-Vorwahl) angerufen, jede Website geöffnet und jede E-Mail Adresse angeschrieben werden kann.
 
